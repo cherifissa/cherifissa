@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# 💫 À propos de moi :
+🔭 Je travaille actuellement sur<br>👯 Je cherche à collaborer sur<br>🤝 Je cherche de l'aide pour<br>🌱 J'apprends actuellement<br>💬 Posez-moi des questions sur<br>⚡ Amusant fait
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https%3A%2F%2Fwww.facebook.com%2FMahamat%2520cherif%2520issa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahamatcherifissa36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cherif-issa-mahamat-769336214) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mahamatcherifiss) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahamatCherifi4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCSFwk3y-Bld4a8iZWMScCmw) 
